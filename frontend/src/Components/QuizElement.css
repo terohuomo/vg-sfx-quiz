@@ -1,0 +1,45 @@
+.Quiz-element {
+  background-color: #b9bbbe;
+  margin: 15px;
+  width: 320px;
+  height: 40px;
+  color: white;
+  display: flex;
+  border-radius: 15px 15px 15px 15px;
+}
+
+.Quiz-input--correct {
+  color: #089000;
+  font-weight: bold;
+}
+
+.Quiz-input--spoiler {
+  color: black;
+}
+
+.Quiz-element button {
+  box-sizing: border-box;
+  padding: 5px 5px 5px 10px;
+  background: none;
+  border: 0;
+  width: 45px;
+  height: 40px;
+  color: #dcddde;
+}
+
+.Quiz-element button:hover {
+  color: #fff;
+  cursor: pointer;
+}
+
+.Quiz-element-index {
+  color: #2f3136;
+  line-height: 40px;
+  padding-left: 3px;
+  padding-right: 3px;
+  border-left: 2px solid #2f3136;
+  width: 20px;
+  text-align: center;
+  font-weight: 550;
+  user-select: none;
+}

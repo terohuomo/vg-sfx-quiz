@@ -1,0 +1,52 @@
+.Quiz-score {
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+.Quiz-score-wrapper {
+  height: 32px;
+  padding-bottom: 10px;
+  padding-top: 5px;
+  font-size: 24pt;
+  font-family: 'Digital-7 Mono', sans-serif;
+  background: #36393f;
+}
+
+.Quiz-score-wrapper--fixed {
+  position: fixed;
+  bottom: 0;
+  left: calc(50% - 120px);
+  text-align: center;
+  width: 240px;
+}
+
+.Quiz-score-wrapper--hidden {
+  display: none;
+}
+
+.Quiz-score--miss {
+  color: #ce160e;
+}
+
+.Quiz-score--way-off {
+  color: orange;
+}
+
+.Quiz-score--decent {
+  color: #dcda00;
+}
+
+.Quiz-score--great {
+  color: yellowgreen;
+}
+
+.Quiz-score--excellent {
+  color: green;
+  font-weight: bolder;
+}
+
+.Quiz-score--fantastic {
+  color: goldenrod;
+  font-weight: bolder;
+  text-decoration: underline;
+}

@@ -1,0 +1,17 @@
+.Quiz-footer {
+  background-color: #36393f;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.Quiz-footer-text {
+  font-size: small;
+  padding-bottom: 5px;
+}
+
+.Quiz-footer-icon {
+  display: inline-block;
+  vertical-align: -3px;
+}
