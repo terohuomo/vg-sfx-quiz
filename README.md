@@ -1,6 +1,6 @@
 **Note! vg-sfx-quiz went offline on 29.10.2024 - application not available on herokupp anymore**
 
-Public version of the source code used in ~~https://vg-sfx-quiz.herokuapp.com/~
+Public version of the source code used in ~~https://vg-sfx-quiz.herokuapp.com/~~
 
 Does not include originally used sounds or answers, only a few "text to speech" sound files as examples.
 
